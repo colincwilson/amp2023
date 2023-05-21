@@ -10,3 +10,6 @@ website:
         text: Home
       - href: cfp.qmd
         text: CFP
+
+resources:
+  - CNAME
