@@ -1,12 +1,16 @@
 ---
-title: "AMP2023 @ JHU"
+title: ""
 ---
 
 The 2023 Annual Meeting on Phonology (AMP) is scheduled to be held in person on October 20-22, hosted by Johns Hopkins at either 555 Pennsylvania Avenue, Washington, D.C. or the Homewood campus in Baltimore, MD. [AMP](https://blogs.umass.edu/amp-info/), founded in 2013, is held every Fall, and showcases high quality research in all areas of phonology.
 
 <br/>
 
-Submission link: <https://easychair.org/conferences/?conf=amp2023>
+[Call for papers](cfp.qmd)
+
+<br/>
+
+Submission link (will be live soon): <https://easychair.org/conferences/?conf=amp2023>
 
 <br/>
 
