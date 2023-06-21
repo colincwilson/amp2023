@@ -2,4 +2,29 @@
 title: ""
 ---
 
-Due to unforeseen circumstances, AMP 2023 will not be held at JHU as originally planned. We apologize and regret any inconvenience that this has caused. Any questions can be emailed to <a href="mailto: amp2023jhu@gmail.com"> amp2023jhu@gmail.com</a>.
+The 2023 Annual Meeting on Phonology (AMP 2023) will be held online on October 20-22 (not at Johns Hopkins University as originally planned). [AMP](https://blogs.umass.edu/amp-info/), founded in 2013, is held every Fall, and showcases high quality research in all areas of phonology.
+
+<br/>
+
+## Invited speakers
+
+[Ellen Broselow](https://linguistics.stonybrook.edu/faculty/ellen.broselow/) (_Stony Brook_)
+
+[Laura Gwilliams](https://lauragwilliams.github.io/) (_Stanford_)
+
+[Jie Zhang](https://linguistics.ku.edu/people/jie-zhang) (_University of Kansas_)
+
+<br/>
+
+## Submission info
+
+[Call for papers](cfp.qmd) (with extended deadline)
+
+Abstract submission link: <https://easychair.org/conferences/?conf=amp2023>
+
+<br/>
+
+- - -
+
+Any questions about submissions or conference organization can be emailed to <a href="mailto: amp2023jhu@gmail.com"> amp2023jhu@gmail.com</a>
+

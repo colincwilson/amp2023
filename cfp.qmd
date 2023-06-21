@@ -9,4 +9,6 @@ Submissions are limited to two per author, with at most one submission being sin
 
 We invite abstracts in any area that bears on the central questions of our discipline, including work based on consultant data, phonological theory, computational phonology, corpus phonology, experimental phonology, neurobiology of language, diachronic change, acquisition, sign language phonology, and the interface of phonology with neighboring disciplines.
 
-The deadline for abstract submission is <b>Friday, June 23, 2023 at 11:59 p.m. (Pacific Time)</b>.
+The extended deadline for abstract submission is <b>Friday, July 14, 2023 at 11:59 p.m. (Pacific Time)</b>.
+
+Abstraction submission link: <https://easychair.org/conferences/?conf=amp2023>

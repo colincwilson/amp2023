@@ -8,6 +8,8 @@ website:
     left: 
       - href: index.qmd
         text: Home
+      - href: cfp.qmd
+        text: CFP
 
 resources:
   - CNAME
