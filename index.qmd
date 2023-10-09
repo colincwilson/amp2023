@@ -4,32 +4,37 @@ title: ""
 
 The 2023 Annual Meeting on Phonology (AMP 2023) will be held online on October 20-22 (not at Johns Hopkins University as originally planned). [AMP](https://blogs.umass.edu/amp-info/), founded in 2013, is held every Fall, and showcases high quality research in all areas of phonology.
 
-<br/>
+### [Registration](registration.qmd)
+
+
+### [Schedule](schedule.qmd)
+
 
 ## Invited speakers
 
-[Ellen Broselow](https://linguistics.stonybrook.edu/faculty/ellen.broselow/) (_Stony Brook_)
+[Ellen Broselow](https://linguistics.stonybrook.edu/faculty/ellen.broselow/) (_Stony Brook University_)
 
-[Laura Gwilliams](https://lauragwilliams.github.io/) (_Stanford_)
+[Laura Gwilliams](https://lauragwilliams.github.io/) (_Stanford University_)
 
 [Jie Zhang](https://linguistics.ku.edu/people/jie-zhang) (_University of Kansas_)
 
 <br/>
 
+
 ## Submission info
 
-[Call for papers](cfp.qmd) (with extended deadline)
+~~[Call for papers](cfp.qmd) (with extended deadline)~~
 
-Abstract submission link: <https://easychair.org/conferences/?conf=amp2023>
+~~Abstract submission link: <https://easychair.org/conferences/?conf=amp2023>~~
 
-Thanks to everyone who submitted abstracts and reviews, notifications and other info are coming very soon!
+Thanks to everyone who submitted abstracts and reviewed them!
 
 <br/>
 
 - - -
 
-Any questions about submissions or conference organization can be emailed to <a href="mailto: amp2023jhu@gmail.com"> amp2023jhu@gmail.com</a>
+Any questions about conference organization can be emailed to<br/> <a href="mailto: amp2023jhu@gmail.com"> amp2023jhu@gmail.com</a>.
 
 <br/>
 
-We will post news about AMP on Phonolist. To subscribe, send a message to <a href="mailto: phonolist+subscribe@groups.umass.edu"> phonolist+subscribe@groups.umass.edu<a>. When you get a confirmation e-mail, reply to it (don’t use the link).
+We will post news about AMP on Phonolist. To subscribe, send a message to <a href="mailto: phonolist+subscribe@groups.umass.edu"> phonolist+subscribe@groups.umass.edu<a>.<br/>When you get a confirmation e-mail, reply to it (don’t use the link).
