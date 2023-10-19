@@ -4,5 +4,7 @@
 All talks and posters will be presented by Zoom. Meeting information will be sent by email to registered participants and posted online while the conference is in session.
 
 
-[Conference schedule (with links to abstracts)](https://docs.google.com/spreadsheets/d/1ZIQDiTmwfWAaDmVwNTDn2v6aPkPIzJhFi7WNZ9XoFKA/edit?usp=sharing)
+[Conference schedule (with links to abstracts / slides / posters)](https://docs.google.com/spreadsheets/d/1ZIQDiTmwfWAaDmVwNTDn2v6aPkPIzJhFi7WNZ9XoFKA/edit?usp=sharing)
+
+[Download all abstracts (zip file)](amp2023_abstracts.zip)
 

@@ -9,10 +9,10 @@ website:
     left: 
       - href: index.qmd
         text: Home
-      - href: registration.qmd
-        text: Registration
       - href: schedule.qmd
         text: Schedule
+      - href: registration.qmd
+        text: Registration
       - href: cfp.qmd
         text: CFP
 
