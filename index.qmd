@@ -4,7 +4,7 @@ title: ""
 
 The 2023 Annual Meeting on Phonology (AMP 2023) will be held online on October 20-22 (not at Johns Hopkins University as originally planned). [AMP](https://blogs.umass.edu/amp-info/), founded in 2013, is held every Fall, and showcases high quality research in all areas of phonology.
 
-# [Schedule](schedule.qmd)
+# [Schedule and Zoom link](schedule.qmd)
 
 ## Invited speakers
 
