@@ -1,10 +1,38 @@
 [
   {
-    "objectID": "registration.html",
-    "href": "registration.html",
+    "objectID": "schedule.html",
+    "href": "schedule.html",
+    "title": "Schedule",
+    "section": "",
+    "text": "Schedule\nConference schedule (with links to abstracts/handouts/posters/slides)\nDownload all abstracts (zip file)"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
     "title": "Registration",
     "section": "",
-    "text": "Registration\nRegistration for the conference is free. If you plan to attend the conference, please complete the following short form.\n\nThose who registered by 9am on Friday, October 20 should have already received an email with Zoom and other info. The Zoom link can be found on the Schedule page of the conference website."
+    "text": "The 2023 Annual Meeting on Phonology (AMP 2023) was held online on October 20-22 (not at Johns Hopkins University as originally planned). AMP, founded in 2013, is held every Fall, and showcases high quality research in all areas of phonology."
+  },
+  {
+    "objectID": "index.html#schedule-with-links-to-abstractshandoutspostersslides",
+    "href": "index.html#schedule-with-links-to-abstractshandoutspostersslides",
+    "title": "Registration",
+    "section": "Schedule (with links to abstracts/handouts/posters/slides)",
+    "text": "Schedule (with links to abstracts/handouts/posters/slides)"
+  },
+  {
+    "objectID": "index.html#invited-speakers",
+    "href": "index.html#invited-speakers",
+    "title": "Registration",
+    "section": "Invited speakers",
+    "text": "Invited speakers\nEllen Broselow (Stony Brook University)\nLaura Gwilliams (Stanford University)\nJie Zhang (University of Kansas)"
+  },
+  {
+    "objectID": "index.html#submission-info",
+    "href": "index.html#submission-info",
+    "title": "Registration",
+    "section": "Submission info",
+    "text": "Submission info\nCall for papers (with extended deadline)\nAbstract submission link: https://easychair.org/conferences/?conf=amp2023\nThanks to everyone who submitted abstracts and reviewed them!\n\n\nAny questions about conference organization can be emailed to  amp2023jhu@gmail.com.\n\nWe will post news about AMP on Phonolist. To subscribe, send a message to  phonolist+subscribe@groups.umass.edu.When you get a confirmation e-mail, reply to it (don’t use the link)."
   },
   {
     "objectID": "cfp.html",
@@ -21,31 +49,10 @@
     "text": "We invite abstracts for either oral presentation (20 minutes, followed by 10 minutes of discussion) or poster presentation. Abstracts must be anonymous, so please be sure to eliminate any identifying information and metadata from the document. Length is limited to a maximum of two single-spaced pages (US Letter), figures and references included. Font size should be 12-point, with margins of at least one inch (2.54cm) left on all sides. Abstracts must be submitted in .pdf format.\nSubmissions are limited to two per author, with at most one submission being single- or primary-authored. All submissions must be novel work, not published or accepted at a journal, nor given or scheduled at another conference.\nWe invite abstracts in any area that bears on the central questions of our discipline, including work based on consultant data, phonological theory, computational phonology, corpus phonology, experimental phonology, neurobiology of language, diachronic change, acquisition, sign language phonology, and the interface of phonology with neighboring disciplines.\nThe extended deadline for abstract submission is Friday, July 14, 2023 at 11:59 p.m. (Pacific Time).\nWe will leave EasyChair access on through the weekend (July 15-16) for those who need a bit of extra time to write their abstract or who want to edit one they have already submitted.\nAbstraction submission link: https://easychair.org/conferences/?conf=amp2023"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Schedule and Zoom link",
+    "objectID": "registration.html",
+    "href": "registration.html",
+    "title": "Registration",
     "section": "",
-    "text": "The 2023 Annual Meeting on Phonology (AMP 2023) will be held online on October 20-22 (not at Johns Hopkins University as originally planned). AMP, founded in 2013, is held every Fall, and showcases high quality research in all areas of phonology."
-  },
-  {
-    "objectID": "index.html#invited-speakers",
-    "href": "index.html#invited-speakers",
-    "title": "Schedule and Zoom link",
-    "section": "Invited speakers",
-    "text": "Invited speakers\nEllen Broselow (Stony Brook University)\nLaura Gwilliams (Stanford University)\nJie Zhang (University of Kansas)"
-  },
-  {
-    "objectID": "index.html#submission-info",
-    "href": "index.html#submission-info",
-    "title": "Schedule and Zoom link",
-    "section": "Submission info",
-    "text": "Submission info\nCall for papers (with extended deadline)\nAbstract submission link: https://easychair.org/conferences/?conf=amp2023\nThanks to everyone who submitted abstracts and reviewed them!\n\n\nAny questions about conference organization can be emailed to  amp2023jhu@gmail.com.\n\nWe will post news about AMP on Phonolist. To subscribe, send a message to  phonolist+subscribe@groups.umass.edu.When you get a confirmation e-mail, reply to it (don’t use the link)."
-  },
-  {
-    "objectID": "schedule.html",
-    "href": "schedule.html",
-    "title": "Schedule",
-    "section": "",
-    "text": "Schedule\nAll talks and posters will be presented by Zoom. Those who registered by 9am on Friday, October 20 should have already received an email with Zoom meeting details and other information. The conference will begin on Friday at 1:45pm EDT.\nZoom link\nConference schedule (with links to abstracts / slides / posters)\nDownload all abstracts (zip file)"
+    "text": "Registration\nRegistration for the conference is free. If you plan to attend the conference, please complete the following short form.\n\nThose who registered by 9am on Friday, October 20 should have already received an email with Zoom and other info. The Zoom link can be found on the Schedule page of the conference website."
   }
 ]

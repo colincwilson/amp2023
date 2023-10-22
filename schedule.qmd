@@ -1,12 +1,7 @@
 
 # Schedule
 
-All talks and posters will be presented by Zoom. Those who registered by 9am on Friday, October 20 should have already received an email with Zoom meeting details and other information. The conference will begin on Friday at 1:45pm EDT.
-
-[Zoom link](https://zoom.us/j/94688446687)
-
-
-[Conference schedule (with links to abstracts / slides / posters)](https://docs.google.com/spreadsheets/d/1ZIQDiTmwfWAaDmVwNTDn2v6aPkPIzJhFi7WNZ9XoFKA/edit?usp=sharing)
+[Conference schedule (with links to abstracts/handouts/posters/slides)](https://docs.google.com/spreadsheets/d/1ZIQDiTmwfWAaDmVwNTDn2v6aPkPIzJhFi7WNZ9XoFKA/edit?usp=sharing)
 
 [Download all abstracts (zip file)](amp2023_abstracts.zip)
 
